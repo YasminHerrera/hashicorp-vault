@@ -1,4 +1,0 @@
-# List auth methods
-path "sys/auth" {
- capabilities = ["read"]
-}
